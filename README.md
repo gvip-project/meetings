@@ -9,3 +9,5 @@ Protocols, agendas, materials for meetings
 * Slack: [https://owasp.org/slack/invite](https://owasp.org/slack/invite) Channel \#cve-wg (no membership required)  
 * Github (new\!): [https://github.com/gvip-project](https://github.com/gvip-project)  
   * Meeting notes will be published in the "Meetings" repository
+
+The documents in this repository is covered by Creative Commons CC BY 4.0 license unless a document specifies something else, like an attached PDF with another license.
